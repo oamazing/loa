@@ -1,4 +1,7 @@
+go.sum
+
+build.sh
 .vscode/
 loa
-go.sum
-release
+release/
+.DS_store
